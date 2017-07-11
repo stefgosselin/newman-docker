@@ -2,7 +2,7 @@ FROM alpine:3.3
 MAINTAINER Postman Labs <help@getpostman.com>
 
 # Set node version
-ENV NODE_VERSION 4.3.0
+ENV NODE_VERSION 6.11.1
 
 # Set locale
 ENV LC_ALL en_US.UTF-8

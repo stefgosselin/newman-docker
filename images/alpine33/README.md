@@ -1,6 +1,6 @@
 # newman_alpine33
 
-This image runs newman 3.7.5 on node 4.3.0 on Alpine 3.3
+This image runs newman 3.7.5 on node 6.11.1 on Alpine 3.3
 
 Build the image:
 

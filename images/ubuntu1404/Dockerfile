@@ -7,7 +7,7 @@ RUN apt-get update && apt-get install -y \
     npm;
 
 # Set node version
-ENV NODE_VERSION 4.3.0
+ENV NODE_VERSION 6.11.1
 
 # Set locale
 ENV LC_ALL en_US.UTF-8
